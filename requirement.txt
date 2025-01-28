@@ -1,0 +1,9 @@
+numpy>=2.2.2
+pandas>=2.2.3
+plotly>=5.24.1
+matplotlib>=3.10.0
+seaborn>=0.13.2
+scikit-learn>=1.6.1
+six>=1.17.0
+statsmodels>=0.14.4
+missingno>=2.2.3
